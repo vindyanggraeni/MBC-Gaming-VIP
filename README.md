@@ -1,2 +1,2 @@
-# MBC-Gaming-VIP
-Free Host
+# MBC-VIP
+
